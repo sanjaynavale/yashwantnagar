@@ -233,7 +233,7 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
 	<!-- HEADER BG : end -->
 
 	<!-- CORE : begin -->
-	<div id="core" class="post-175 page type-page status-publish has-post-thumbnail hentry" style="margin-top:10%;">
+	<div id="core" class="post-175 page type-page status-publish has-post-thumbnail hentry" style="margin-top:20%;">
 		<div class="c-container">
 
 			
