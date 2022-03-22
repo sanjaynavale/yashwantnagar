@@ -420,10 +420,9 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
 
 								
 					
-											<!--<a href="wp-content/uploads/2016/04/New-Doc-1_1.jpg">
+											<a href="wp-content/uploads/2016/04/New-Doc-1_1.jpg">
 										<img src="https://goo.gl/maps/2mYoc7TqLGqiDjkB7" alt="">
-											</a>-->
-											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3797.320156518007!2d75.00625836488317!3d17.870477187790843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc4751c3a613109%3A0xe1c214618dc5630!2sGram%20Panchayat!5e0!3m2!1sen!2sin!4v1647930278985!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+											</a>
 					
 				
             </div>
