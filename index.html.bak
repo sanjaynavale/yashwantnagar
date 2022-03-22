@@ -103,8 +103,8 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
 
 																															<div class="header-branding m-large-logo">
 
-							<a href="index.html"><span><img src="wp-content/uploads/2016/04/a.png"
-							 data-hires="http://gskpatoda.in/wp-content/uploads/2016/04/a.png"							alt="Gram-Sansad Karyala Patoda / Gangapur(N.), Aurangabad."></span></a>
+							<!--<a href="index.html"><span><img src="wp-content/uploads/2022/flex.jpeg"
+							 data-hires=""></span></a> -->
 
 						</div>
 						<!-- HEADER BRANDING : end -->
@@ -264,15 +264,17 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
 <h2 style="text-align: center;">यशवंत नगर गावाची यशोगाथा</h2>
 <hr />
 <p style="text-align: center;"><u></u><strong><u>माझं गावचं मंदिर शोभलं !</u></strong></p>
-<p>“जिवा भावानं जव मी पाहीलं,माझ गावचं मंदिर शोभलं”या  राष्ट्रसंत तुकडोजी महाराजांच्या ग्रामविकासाची गोडवी गाणाऱ्या भजनातील प्रत्येक ओळीचे दर्शन पाटोदा ता.जि.औरंगाबादने घडविले आहे.औद्योगिकरणामुळे मेगासिटीची चाहुल लागलेल्या औरंगाबाद शहारापासुन अवघ्या १३ कि.मी.अंतरावर खामनदीच्या तिरावरील पाटोदा-गंगापुर नेहरी या जुळ्या गावांनी ग्रामविकासात उत्तुंग झेप घेतली आहे.संत गाडगेबाबा ग्रामस्वच्छता अभियानाव्दारे २ ऑक्टोंबर २००५ रोजी गावात ग्रामोन्नतीची मुहुर्तमेढ घट्ट रोवण्यात आली,अन् अवघ्या ७ वर्षात गावाचे संपुर्ण स्वरुपच पालटले .निर्मलग्राम,पर्यावरण संतुलीत सम्रुध्द ग्राम या मानांकित पुरस्काराने महामहिम राष्ट्रपतीच्या हस्ते सन्मानीत होण्याचे भाग्य गावाला दोन वेळा प्राप्त झाले आहे.नुकताच आदर्शगाव पाटोदाला पंचायतीराज अभियान अंतर्गत यशवंतराव चव्हाण गौरव ग्रामसभा पुरस्कार (२०११-१२)मिळाल्याने गावकिर्तीच्या शिरपेचात आणखी एक मानाचा तुरा रोवला गेला आहे.सन २०११-१२ मध्ये संत गाडगेबाबा ग्रामस्वच्छता अभियानात राज्यात प्रथम येण्याचा बहुमान मिळाला आहे.</p>
-<p><p><a href="%e0%a4%aa%e0%a4%be%e0%a4%9f%e0%a5%8b%e0%a4%a6%e0%a4%be-%e0%a4%97%e0%a4%be%e0%a4%b5%e0%a4%be%e0%a4%9a%e0%a5%80-%e0%a4%af%e0%a4%b6%e0%a5%8b%e0%a4%97%e0%a4%be%e0%a4%a5%e0%a4%be/index.html" class="c-button" target="_blank">अधिक माहिती साठी</a></p>
+<p>अकलूज हे सोलापूर जिल्ह्यातील माळशिरस तालुक्यातील महत्त्वाचे शहर रस्त्याने सर्व शहरांशी जोडलेले आहे. पुणे-सोलापूर मार्गावर इंदापूर येथून अकलूजला जाणारा फाटा असुन पुणे -अकलूज अंतर १६० कि.मी आहे. या शहरात नीरा नदीच्या काठावर अकलुज(Akluj Fort) भूईकोट किल्ला उभा आहे. किल्ल्यात ठिकठिकाणी कारंजी, हिरवळ व फुलझाडे लावण्यात आलेली असुन शिवशाहीर बाबासाहेब पुरंदरे यांच्या मार्गदर्शनाखाली शिल्पकार श्री दिनकरराव थोपटे व अविनाश थोपटे यांनी किल्ल्यात एक भव्य शिवसृष्टी उभारली आहे. किल्ल्याचा जिर्णोध्दार व शिवसृष्टी उभारण्यासाठी मोहीते पाटील घराण्याने विशेष प्रयत्न केलेले आहेत. किल्ल्याचा जिर्णोध्दार करताना मूळ बांधकामास धक्का न लावता नवीन बांधकामाचा समतोल साधला गेला आहे.</p>
+<p><p><a href="#" class="c-button" target="_blank">अधिक माहिती साठी</a></p>
 </div>
 	<div class="wpb_video_widget wpb_content_element vc_clearfix   vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center" >
 		<div class="wpb_wrapper">
-			<h2 class="wpb_heading wpb_video_heading">YASHWANT NAGAR NIRMAL GRAM VIDEO</h2>
-			<div class="wpb_video_wrapper"><iframe width="500" height="375" src="https://www.youtube.com/embed/3TREyyk1nI8?feature=oembed" frameborder="0" allowfullscreen></iframe></div>
+			<h2 class="wpb_heading wpb_video_heading">अकलूजचा भुईकोट किल्ला आणि शिवसृष्टी </h2>
+			<div class="wpb_video_wrapper"><iframe width="853" height="480" src="https://www.youtube.com/embed/_LsFFzvlR5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 		</div>
-	</div>
+	</div> 
+	
+	
 </div></div></div></div>
 					</div>
 
@@ -298,12 +300,12 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
 	<nav class="main-menu">
 
 		<ul id="menu-main-menuu-1" class="menu-items clearfix"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-175 current_page_item menu-item-237"><a href="index.html" aria-current="page">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="%e0%a4%aa%e0%a4%be%e0%a4%9f%e0%a5%8b%e0%a4%a6%e0%a4%be-%e0%a4%97%e0%a4%be%e0%a4%b5%e0%a4%be%e0%a4%9a%e0%a5%80-%e0%a4%af%e0%a4%b6%e0%a5%8b%e0%a4%97%e0%a4%be%e0%a4%a5%e0%a4%be/index.html">Our Story ( यशोगाथा )</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="patada-village-information-statistics/index.html">Village Info ( गांवाची माहिती )</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="phone-numbers/index.html">Imp Phone No. ( दूरध्वनी क्रमांक )</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="awards/index.html">Awards ( गावाला प्राप्त पुरस्कार )</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="%e0%a4%a8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3-%e0%a4%89%e0%a4%aa%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae-2/index.html">Innovative (नाविन्यपूर्ण उपक्रम)</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287"><a href="galleries/index.html">Gallery ( संग्रहित छायाचित्रे )</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="#">Our Story ( यशोगाथा )</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="#">Village Info ( गांवाची माहिती )</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="#">Imp Phone No. ( दूरध्वनी क्रमांक )</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="a#">Awards ( गावाला प्राप्त पुरस्कार )</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="#">Innovative (नाविन्यपूर्ण उपक्रम)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287"><a href="#">Gallery ( संग्रहित छायाचित्रे )</a></li>
 </ul>
 	</nav>
 	<!-- MAIN MENU : end -->
@@ -404,12 +406,12 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
             </div>
 		</div></div>
         
-		<div id="lsvr_image_widget-4" class="widget lsvr-image"><div class="widget-inner">            <h3 class="widget-title">Paryavarn Vikasratna Puraskar</h3>            <div class="widget-content">
+		<div id="lsvr_image_widget-4" class="widget lsvr-image"><div class="widget-inner">            <h3 class="widget-title">प्राथमिक  आदर्श शाळा</h3>            <div class="widget-content">
 
 								
 					
 											<a href="awards/index.html">
-										<img src="wp-content/uploads/2016/04/8-x-12-copy-1024x683.jpg" alt="">
+										<img src="wp-content/uploads/2022/adarsh.jpeg" alt="">
 											</a>
 					
 				
@@ -420,9 +422,10 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
 
 								
 					
-											<a href="wp-content/uploads/2016/04/New-Doc-1_1.jpg">
+											<!--<a href="wp-content/uploads/2016/04/New-Doc-1_1.jpg">
 										<img src="https://goo.gl/maps/2mYoc7TqLGqiDjkB7" alt="">
-											</a>
+											</a>-->
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3797.320156518007!2d75.00625836488317!3d17.870477187790843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc4751c3a613109%3A0xe1c214618dc5630!2sGram%20Panchayat!5e0!3m2!1sen!2sin!4v1647930278985!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 					
 				
             </div>
@@ -554,12 +557,12 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
             </div>
 		</div></div>
         
-		<div id="lsvr_image_widget-1" class="widget lsvr-image"><div class="widget-inner">            <h3 class="widget-title m-has-ico"><i class="widget-ico fa fa-user"></i>सौ. देवश्री सत्यशील मोहिते पाटील</h3>            <div class="widget-content">
+		<div id="lsvr_image_widget-1" class="widget lsvr-image"><div class="widget-inner">            <h3 class="widget-title m-has-ico"><i class="widget-ico fa fa-user"></i>माझी वसुंधरा अभियान</h3>            <div class="widget-content">
 
 								
 					
 											<a href="galleries/actor-makrand-anaspure-at-patoda/index.html">
-										<img src="wp-content/uploads/2016/04/d.png" alt="">
+										<img src="wp-content/uploads/2022/vasundhara.jpeg" alt="">
 											</a>
 					
 				
@@ -630,7 +633,7 @@ body { font-family: 'Source Sans Pro', Arial, sans-serif; font-size: 16px; font-
 ता. जि. सोलापूर.</p>
 <p>फोन : 9527102831<br />
 Email: <a href="#">yashgp555@gmail.com</a><br />
-Website : www.gskpatoda.in</p>
+Website : </p>
 </div>
 		</div></div></div>
 		</div>
@@ -659,7 +662,7 @@ Website : www.gskpatoda.in</p>
 							
 														<!-- FOOTER TEXT : begin -->
 							<div class="footer-text">
-								<p>© GSK Patoda/Gangapur - 2016 | Designed and Develope by <a href="http://www.codingvisions.com/" target="_blank">CNC WebWorld Tech</a></p>
+								<p>© Yashwantnagar | Designed and Develope by <a href="http://www.codingvisions.com/" target="_blank">CNC WebWorld Tech</a></p>
 							</div>
 							<!-- FOOTER TEXT : end -->
 							
